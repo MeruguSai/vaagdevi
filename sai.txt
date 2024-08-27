@@ -1,1 +1,8 @@
  hello merugu sai to jash reddy
+git init
+git status
+git add .
+git status
+git commit -m "message"
+git remote https://github.com/MeruguSai/vaagdevi.git
+git push
