@@ -4,5 +4,5 @@ git status
 git add .
 git status
 git commit -m "message"
-git remote https://github.com/MeruguSai/vaagdevi.git
-git push
+git remote add origin https://github.com/MeruguSai/vaagdevi.git
+git push 
